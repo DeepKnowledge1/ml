@@ -31,6 +31,9 @@
 - R² Score Implementation  
 - Evaluation using `sklearn.metrics`  
 
+📌 **Regularization**
+- L1
+- L2 
 ---
 
 ### **3️⃣ Supervised Learning: Classification**
