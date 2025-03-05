@@ -45,7 +45,7 @@
 - [`SVM to Multi-Class Classification`](svm)
 
 📌 **Performance Metrics for Classification**  
-- Binart Classification: Real dataset[https://www.kaggle.com/datasets/nimapourmoradi/raisin-binary-classification]
+- [`Binary Classification Project`](classification_project)
 - Precision, Recall, and F1-Score
 - Confusion Matrix Analysis  
 - Using `sklearn.classification_report`  
