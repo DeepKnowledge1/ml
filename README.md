@@ -20,13 +20,13 @@
 ## **🟡 Part II: Core Machine Learning Concepts**
 ### **2️⃣ Supervised Learning: Regression**
 📌 **Fundamentals of Regression**  
-- Linear Regression  
+- [`Linear_Regression`]([ml/tree/main/Linear_Regression])  
   ✅ Step-by-step Weight Computation  
   ✅ Implementation with scikit-learn  
 - Multiple Linear Regression  
 - Polynomial Regression  
 
-📌 **Performance Metrics**  
+📌 **Performance Metrics**[`Linear_Regression`]([ml/tree/main/Linear_Regression])  
 - RMSE and MAE Calculations  
 - R² Score Implementation  
 - Evaluation using `sklearn.metrics`  
@@ -38,10 +38,10 @@
 
 ### **3️⃣ Supervised Learning: Classification**
 📌 **Popular Classification Algorithms**  
-- Logistic Regression  
-- Decision Trees  
-- Naïve Bayes  
-- Support Vector Machines (SVM)
+- [`Logistic Regression`](logistic_regression)
+- [`Decision Trees`](decision_tree)
+- [`Naïve Bayes`] (Naive_Bayes)  
+- [`Support Vector Machines (SVM)`]
 - SVM to Multi-Class Classification
 
 📌 **Performance Metrics for Classification**  
