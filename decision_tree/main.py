@@ -27,7 +27,7 @@ def information_gain(data, feature, target):
     total_count = len(data)
     
     # Split the data based on the feature
-    feature_values = set(item[feature] for item in data])
+    feature_values = set(item[feature] for item in data)
     weighted_entropy = 0.0
     
     for value in feature_values:
@@ -104,6 +104,13 @@ new_instance = {"Weather": "Sun", "Time": "<30", "Hungry": "No"}
 prediction = classify(decision_tree, new_instance)
 print("Prediction for new instance:", prediction)
 
+
+
+####################################################################
+
+#############     sklearn.Decision tree               ################
+
+####################################################################
 
 
 
