@@ -40,9 +40,9 @@
 📌 **Popular Classification Algorithms**  
 - [`Logistic Regression`](logistic_regression)
 - [`Decision Trees`](decision_tree)
-- [`Naïve Bayes`] (Naive_Bayes)  
-- [`Support Vector Machines (SVM)`]
-- SVM to Multi-Class Classification
+- [`Naïve Bayes`](Naive_Bayes)  
+- [`Support Vector Machines (SVM)`](svm)
+- [`SVM to Multi-Class Classification`](svm)
 
 📌 **Performance Metrics for Classification**  
 - Binart Classification: Real dataset[https://www.kaggle.com/datasets/nimapourmoradi/raisin-binary-classification]
