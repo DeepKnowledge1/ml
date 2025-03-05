@@ -41,10 +41,12 @@
 - Logistic Regression  
 - Decision Trees  
 - Naïve Bayes  
-- Support Vector Machines (SVM)  
+- Support Vector Machines (SVM)
+- SVM to Multi-Class Classification
 
 📌 **Performance Metrics for Classification**  
-- Precision, Recall, and F1-Score  
+- Binart Classification: Real dataset[https://www.kaggle.com/datasets/nimapourmoradi/raisin-binary-classification]
+- Precision, Recall, and F1-Score
 - Confusion Matrix Analysis  
 - Using `sklearn.classification_report`  
 
