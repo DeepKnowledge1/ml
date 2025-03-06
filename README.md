@@ -20,13 +20,13 @@
 ## **🟡 Part II: Core Machine Learning Concepts**
 ### **2️⃣ Supervised Learning: Regression**
 📌 **Fundamentals of Regression**  
-- [`Linear_Regression`]([ml/tree/main/Linear_Regression])  
+- [`Linear_Regression`]([Supervised_Learning/Linear_Regression])  
   ✅ Step-by-step Weight Computation  
   ✅ Implementation with scikit-learn  
 - Multiple Linear Regression  
 - Polynomial Regression  
 
-📌 **Performance Metrics**[`Linear_Regression`]([ml/tree/main/Linear_Regression])  
+📌 **Performance Metrics**[`Linear_Regression`]([Supervised_Learning/Linear_Regression])  
 - RMSE and MAE Calculations  
 - R² Score Implementation  
 - Evaluation using `sklearn.metrics`  
@@ -38,14 +38,14 @@
 
 ### **3️⃣ Supervised Learning: Classification**
 📌 **Popular Classification Algorithms**  
-- [`Logistic Regression`](logistic_regression)
-- [`Decision Trees`](decision_tree)
-- [`Naïve Bayes`](Naive_Bayes)  
-- [`Support Vector Machines (SVM)`](svm)
-- [`SVM to Multi-Class Classification`](svm)
+- [`Logistic Regression`](Supervised_Learning/Linear_Regression)
+- [`Decision Trees`](Supervised_Learning/Decision_Tree)
+- [`Naïve Bayes`](Supervised_Learning/Naive_Bayes)  
+- [`Support Vector Machines (SVM)`](Supervised_Learning/Support_Vector_Machine)
+- [`SVM to Multi-Class Classification`](Supervised_Learning/Support_Vector_Machine)
 
 📌 **Performance Metrics for Classification**  
-- [`Binary Classification Project`](classification_project)
+- [`Binary Classification Project`](Supervised_Learning/Raisin_classification_project)
 - Precision, Recall, and F1-Score
 - Confusion Matrix Analysis  
 - Using `sklearn.classification_report`  
