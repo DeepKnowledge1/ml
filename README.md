@@ -96,17 +96,25 @@
 - Backpropagation  
 
 📌 **Performance Measurement**  
-- Loss Functions  
+- Loss Functions
 - Accuracy Metrics  
-- Implementation with Keras  
+- Implementation with PyTorch  
 
 ---
 
 ### **8️⃣ Convolutional Neural Networks (CNNs)**
 📌 **CNN Architecture**  
-- Convolution Operations  
-- Pooling Layers  
-
+- **Convolutional Layers**
+- **Filters/Kernels**
+- **Stride & Padding** 
+- **Activation Functions** 
+- **Pooling Layers**
+- **Fully Connected Layers**
+- **Dropout & Batch Normalization**
+- **Backpropagation & Optimization** 
+- **Feature Maps**
+- **Transfer Learning**
+      
 📌 **Practical Implementations**  
 - Image Classification  
 - **YOLO Object Detection**  
