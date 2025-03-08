@@ -1,8 +1,8 @@
 from sklearn.naive_bayes import GaussianNB
-from raisin_classifier import BaseRaisinClassifier
+from email_spam_classifer import BaseSpamClassifier
 
 
-class NaiveBayesRaisinClassifier(BaseRaisinClassifier):
+class NaiveBayesRaisinClassifier(BaseSpamClassifier):
     def __init__(self, **kwargs):
         super().__init__(classifier_type="naive_bayes", **kwargs)
         self.model = GaussianNB(**kwargs)

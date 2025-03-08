@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 import pandas as pd
 
 
-class BaseRaisinClassifier:
+class BaseSpamClassifier:
     """Base Raisin Classifier"""
 
     def __init__(self, classifier_type, **kwargs):

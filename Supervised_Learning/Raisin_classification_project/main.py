@@ -5,11 +5,11 @@ from svm_classifier import SVCRaisinClassifier
 
 
 def main():
-    file_path = "./data/Raisin_Dataset.csv"
+    file_path = "./data/emails.csv"
     classifiers = [
         ("decision_tree", {}),
         ("logistic_regression", {}),
-        ("naive_bayes", {}),
+        # ("naive_bayes", {}),
         ("svm", {"kernel": "linear"}),
     ]
 
@@ -25,8 +25,6 @@ def main():
 
         X, y = classifier.load_data(file_path)
         classifier.train(X, y)
-        sample = X[0]
-        print(f"\nSample Prediction: {classifier.predict(sample)}")
 
 
 if __name__ == "__main__":
