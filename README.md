@@ -43,6 +43,8 @@
 - [`Naïve Bayes`](Supervised_Learning/Naive_Bayes)  
 - [`Support Vector Machines (SVM)`](Supervised_Learning/Support_Vector_Machine)
 - [`SVM to Multi-Class Classification`](Supervised_Learning/Support_Vector_Machine)
+- K-Nearest Neighbors (KNN)
+
 
 📌 **Performance Metrics for Classification**  
 - [`Binary Classification Project`](Supervised_Learning/Raisin_classification_project)
