@@ -31,7 +31,7 @@
 - R² Score Implementation  
 - Evaluation using `sklearn.metrics`  
 
-📌 **Regularization**
+📌 **Regularization**[`Regularization`]([Supervised_Learning/Linear_Regression])  
 - L1
 - L2 
 ---
