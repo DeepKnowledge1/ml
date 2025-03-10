@@ -31,7 +31,7 @@
 - R² Score Implementation  
 - Evaluation using `sklearn.metrics`  
 
-📌 **Regularization**
+📌 **Regularization**[`Regularization`]([Supervised_Learning/Linear_Regression])  
 - L1
 - L2 
 ---
@@ -43,14 +43,14 @@
 - [`Naïve Bayes`](Supervised_Learning/Naive_Bayes)  
 - [`Support Vector Machines (SVM)`](Supervised_Learning/Support_Vector_Machine)
 - [`SVM to Multi-Class Classification`](Supervised_Learning/Support_Vector_Machine)
-- K-Nearest Neighbors (KNN)
-
+- [`K-Nearest Neighbors (KNN)`](Supervised_Learning/KNN)
 
 📌 **Performance Metrics for Classification**  
 - [`Binary Classification Project`](Supervised_Learning/classification_projects)
 - Precision, Recall, and F1-Score
 - Confusion Matrix Analysis  
-- Using `sklearn.classification_report`  
+- Using `sklearn.classification_report`
+- ROC Curve and AUC in Binary Classification
 
 ---
 
