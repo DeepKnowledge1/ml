@@ -47,7 +47,7 @@
 
 
 📌 **Performance Metrics for Classification**  
-- [`Binary Classification Project`](Supervised_Learning/Raisin_classification_project)
+- [`Binary Classification Project`](Supervised_Learning/classification_projects)
 - Precision, Recall, and F1-Score
 - Confusion Matrix Analysis  
 - Using `sklearn.classification_report`  

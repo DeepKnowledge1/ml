@@ -1,37 +1,18 @@
-import numpy as np
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import classification_report, confusion_matrix
 import pandas as pd
 
-
-class BaseSpamClassifier:
-    """Base Raisin Classifier"""
+class BaseClassifier:
+    """Base Classifier for both Spam and Raisin Classification"""
 
     def __init__(self, classifier_type, **kwargs):
         self.classifier_type = classifier_type
-        self.scaler = StandardScaler()
+        # self.model_kwargs = kwargs  # Store kwargs for later use
 
-    def load_data(self, file_path):
-        df = pd.read_csv(file_path)
-        X = df[
-            [
-                "Area",
-                "MajorAxisLength",
-                "MinorAxisLength",
-                "Eccentricity",
-                "ConvexArea",
-                "Extent",
-                "Perimeter",
-            ]
-        ].values
-        y = df["Class"].values
-        return X, y
 
     def train(self, X, y, test_size=0.2):
-        X_scaled = self.scaler.fit_transform(X)
         self.X_train, self.X_test, self.y_train, self.y_test = train_test_split(
-            X_scaled, y, test_size=test_size, random_state=42, stratify=y
+            X, y, test_size=test_size, random_state=42, stratify=y
         )
         self.model.fit(self.X_train, self.y_train)
         self.predictions = self.model.predict(self.X_test)
@@ -45,4 +26,7 @@ class BaseSpamClassifier:
         print(classification_report(self.y_test, self.predictions))
 
     def predict(self, sample):
-        return self.model.predict(self.scaler.transform([sample]))[0]
+        return self.model.predict(sample)[0]
+
+    def predict_proba(self, sample):
+        return self.model.predict_proba(sample)[0][1]

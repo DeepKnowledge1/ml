@@ -1,8 +1,8 @@
 from sklearn.svm import SVC
-from email_spam_classifer import BaseSpamClassifier
+from BaseClass import BaseClassifier
 
 
-class SVCRaisinClassifier(BaseSpamClassifier):
+class SVCClassifier(BaseClassifier):
     def __init__(self, **kwargs):
         super().__init__(classifier_type="svm", **kwargs)
         
