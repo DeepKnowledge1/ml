@@ -49,7 +49,8 @@
 - [`Binary Classification Project`](Supervised_Learning/Raisin_classification_project)
 - Precision, Recall, and F1-Score
 - Confusion Matrix Analysis  
-- Using `sklearn.classification_report`  
+- Using `sklearn.classification_report`
+- ROC Curve and AUC in Binary Classification
 
 ---
 
