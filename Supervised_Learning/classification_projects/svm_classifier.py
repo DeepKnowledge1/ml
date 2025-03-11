@@ -1,5 +1,5 @@
 from sklearn.svm import SVC
-from BaseClass import BaseClassifier
+from BaseClassifier import BaseClassifier
 
 
 class SVCClassifier(BaseClassifier):
