@@ -14,14 +14,14 @@ class BaseClassifier:
     def train(self, X_train, y_train):
         self.model.fit(X_train, y_train)
 
-    def evaluate(self,y_test,predictions,y_scores):
+    def evaluate(self,y_test,predictions,y_scores,pos_label):
         print(f"\n--- {self.classifier_type.replace('_', ' ').title()} Classifier ---")
         print("\nConfusion Matrix:")
         print(confusion_matrix(y_test, predictions))
         print("\nClassification Report:")
         print(classification_report(y_test, predictions))
 
-        fpr, tpr, thresholds = roc_curve(y_test, y_scores, pos_label="spam")
+        fpr, tpr, thresholds = roc_curve(y_test, y_scores, pos_label=pos_label)
         roc_auc = auc(fpr, tpr)
 
         # # Plot ROC Curve
