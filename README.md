@@ -45,12 +45,14 @@
 - [`SVM to Multi-Class Classification`](Supervised_Learning/Support_Vector_Machine)
 - [`K-Nearest Neighbors (KNN)`](Supervised_Learning/KNN)
 
-📌 **Performance Metrics for Classification**  
-- [`Binary Classification Project`](Supervised_Learning/classification_projects)
-- Precision, Recall, and F1-Score
+📌 **Performance Metrics for Classification**  [Metrics](https://github.com/DeepKnowledge1/ml/blob/fed250503d7c6ed9f0d770f46208783da7dc2f44/Supervised_Learning/classification_projects/BaseClassifier.py#L17)
+- Precision, Recall, and F1-Score 
 - Confusion Matrix Analysis  
 - Using `sklearn.classification_report`
 - ROC Curve and AUC in Binary Classification
+
+📌 **Classification Projects**  
+- [`Binary Classification Project`](Supervised_Learning/classification_projects)
 
 ---
 
