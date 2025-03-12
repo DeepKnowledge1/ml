@@ -3,6 +3,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
 from typing import Tuple, List
+from sklearn.preprocessing import LabelEncoder
 
 class BaseDataHandler(ABC):
     """Base class for data loading and preprocessing."""
@@ -109,6 +110,54 @@ class RaisinDataHandler(BaseDataHandler):
             any: The transformed feature matrix.
         """
         return StandardScaler().fit_transform(X)
+
+
+class PredictiveMaintenanceDataHandler(BaseDataHandler):
+    """Handles data loading and preprocessing for PredictiveMaintenanceDataHandler Classification."""
+
+    def _extract_features_and_labels(self, df: pd.DataFrame) -> Tuple[any, any]:
+        """
+        Extract numerical features and labels for PredictiveMaintenanceDataHandler classification.
+
+        Args:
+            df (pd.DataFrame): The input DataFrame.
+
+        Returns:
+            Tuple[any, any]: A tuple containing the numerical features (X) and labels (y).
+        """
+        df = self.encode(df)
+        X = df.drop('Failure Type', axis = 1)
+
+        y = df["Failure Type"].values
+        return X, y
+
+    def encode(self,df):
+        df = df.drop('UDI', axis = 1)
+       
+        categorical_cols = ["Type", "Product ID"]
+        scaler = LabelEncoder()
+        for cat in categorical_cols:        
+            df[cat] = scaler.fit_transform(df[cat])            
+        
+            
+        
+        return df
+
+            
+            
+        
+    def preprocess_data(self, X: any) -> any:
+        """
+        Preprocess the numerical data using StandardScaler.
+
+        Args:
+            X (any): The input numerical data.
+
+        Returns:
+            any: The transformed feature matrix.
+        """
+        return StandardScaler().fit_transform(X)
+
 
 # from sklearn.feature_extraction.text import CountVectorizer
 # from sklearn.preprocessing import StandardScaler

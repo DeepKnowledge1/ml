@@ -2,13 +2,13 @@ from decision_tree_classifier import DecisionTree
 from logistic_regression_classifier import LogisticRegressionClassifier
 from naive_bayes_classifier import NaiveBayesClassifier
 from svm_classifier import SVCClassifier
-from DatasetClass import SpamDataHandler, RaisinDataHandler
+from DatasetClass import SpamDataHandler, RaisinDataHandler,PredictiveMaintenanceDataHandler
 from sklearn.model_selection import train_test_split
 
 from collections import Counter
 def main():
-    spamDataHandler = RaisinDataHandler()
-    file_path = "./data/Raisin_Dataset.csv"
+    spamDataHandler = PredictiveMaintenanceDataHandler()
+    file_path = "./data/predictive_maintenance.csv"
     X, y =spamDataHandler.load_data(file_path=file_path)
     
     X_train, X_test, y_train, y_test = train_test_split(

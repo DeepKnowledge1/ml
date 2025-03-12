@@ -19,10 +19,10 @@ class BaseClassifier:
         print("\nConfusion Matrix:")
         print(confusion_matrix(y_test, predictions))
         print("\nClassification Report:")
-        print(classification_report(y_test, predictions))
+        print(classification_report(y_test, predictions, zero_division=1))
 
-        fpr, tpr, thresholds = roc_curve(y_test, y_scores, pos_label=pos_label)
-        roc_auc = auc(fpr, tpr)
+        # fpr, tpr, thresholds = roc_curve(y_test, y_scores, pos_label="spam")
+        # roc_auc = auc(fpr, tpr)
 
         # # Plot ROC Curve
         # plt.figure()
@@ -30,7 +30,7 @@ class BaseClassifier:
         # plt.title(f"ROC Curve for {self.classifier_type.replace('_', ' ').title()}")
         # plt.show()
 
-        print(f"\nAUC: {roc_auc:.2f}")
+        # print(f"\nAUC: {roc_auc:.2f}")
 
     def predict(self, sample):
         return self.model.predict(sample)
