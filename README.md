@@ -58,7 +58,7 @@
 
 ### **4️⃣ Unsupervised Learning**
 📌 **Clustering Techniques**  
-- K-Means Clustering  
+- [`K-Means Clustering`](Unsupervised_Learning/K-Means)  
 - Hierarchical Clustering  
 
 📌 **Dimensionality Reduction**  
