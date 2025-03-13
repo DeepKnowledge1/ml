@@ -9,7 +9,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "Supervised_Learning/classification_projects/main.py",
+            "program": "${file}", //Supervised_Learning/classification_projects/main.py
             "console": "integratedTerminal"
         }
     ]
