@@ -146,7 +146,7 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 
 📌 **Clustering Performance Metrics**  
 - **Silhouette Score**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/ENc-dkwibEs) | [💻 Code Example](Unsupervised_Learning/clustering_mettrics.py)  
 - **Inertia Calculation**  
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 - **Cluster Evaluation Methods**  
