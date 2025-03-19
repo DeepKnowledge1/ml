@@ -142,7 +142,9 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 
 📌 **Dimensionality Reduction**  
 - **Principal Component Analysis (PCA)**  
-  [🎥 Watch Video](https://youtu.be/EzIs_nhT8pU) | [💻 Code Example](Unsupervised_Learning/Hierarchical_clustering/main.py)  
+  [🎥 Watch Video](https://youtu.be/EzIs_nhT8pU) | [💻 Code Example](Unsupervised_Learning/PCA/main.py)  
+- **Incremental Principal Component Analysis (PCA)**  
+  [🎥 Watch Video](https://youtu.be/sP7YogwJERs) | [💻 Code Example](Unsupervised_Learning/PCA/increamental_pca.py)  
 
 📌 **Clustering Performance Metrics**  
 - **Silhouette Score**  
