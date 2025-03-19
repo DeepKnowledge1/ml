@@ -186,26 +186,67 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 ---
 
 ## **🟣 Part IV: Deep Learning**
-
 ### **7️⃣ Neural Networks Fundamentals**
 📌 **Neural Network Basics**  
-- **Neural Network Architecture**  
-  ✅ **Forward Propagation Examples**  
-    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-  ✅ **TensorFlow Implementation**  
-    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Backpropagation**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+- Neural Network Architecture  
+  ✅ Forward Propagation Examples  
+  ✅ TensorFlow Implementation  
+- Backpropagation    
+[🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
 
 📌 **Performance Measurement**  
-- **Loss Functions**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Accuracy Metrics**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Implementation with PyTorch**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+- Loss Functions
+- Accuracy Metrics  
+- Implementation with PyTorch  
+[🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
 
 ---
+
+### **8️⃣ Convolutional Neural Networks (CNNs)**
+📌 **CNN Architecture**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Convolutional Layers**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Filters/Kernels**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Stride & Padding**   
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Activation Functions**   
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Pooling Layers**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Fully Connected Layers**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Dropout & Batch Normalization**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Backpropagation & Optimization**   
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Feature Maps**  
+  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+- **Transfer Learning**    
+    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+
+      
+📌 **Practical Implementations**  
+- Image Classification  
+- **YOLO Object Detection**  
+  ✅ YOLO Architecture  
+  ✅ YOLOv5 Implementation  
+  ✅ Real-time Detection  
+
+
 
 ## **🟠 Part V: Practical Applications**
 
