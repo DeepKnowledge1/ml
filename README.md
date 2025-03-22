@@ -162,7 +162,9 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 ### **5️⃣ Ensemble Methods**
 📌 **Combining Multiple Models for Higher Accuracy**  
 - **Random Forest**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/ASkRrqnO4Dc) | [💻 Code Example](Supervised_Learning/random_forest/main.py)  
+- **Integerate Random Forest in project**  
+  [🎥 Watch Video](https://youtu.be/C3N6lzqJWBs) | [💻 Code Example](Supervised_Learning/classification_projects/random_forest.py)  
 - **Boosting Algorithms**  
   ✅ **AdaBoost**  
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
