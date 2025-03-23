@@ -165,12 +165,16 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
   [🎥 Watch Video](https://youtu.be/ASkRrqnO4Dc) | [💻 Code Example](Supervised_Learning/random_forest/main.py)  
 - **Integerate Random Forest in project**  
   [🎥 Watch Video](https://youtu.be/C3N6lzqJWBs) | [💻 Code Example](Supervised_Learning/classification_projects/random_forest.py)  
-- **Boosting Algorithms**  
+- **🚀Boosting Algorithms**  
   ✅ **AdaBoost**  
+    [🎥 Watch Video](https://www.youtube.com/watch?v=xeUClEOtjw8) | [💻 Code Example](Supervised_Learning/AdaBoost/main.py)  
+  ✅ **Integerate AdaBoost in project**  
+    [🎥 Watch Video](https://www.youtube.com/watch?v=xeUClEOtjw8) | [💻 Code Example](Supervised_Learning/AdaBoost/main.py)  
+    
+  ✅ **📈Gradient Boosting**  
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-  ✅ **Gradient Boosting**  
-    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-  ✅ **XGBoost**  
+    
+  ✅ **⚡XGBoost**  
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 ---
