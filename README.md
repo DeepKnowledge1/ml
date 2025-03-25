@@ -172,7 +172,8 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
     [🎥 Watch Video](https://www.youtube.com/watch?v=xeUClEOtjw8) | [💻 Code Example](Supervised_Learning/AdaBoost/main.py)  
     
   ✅ **📈Gradient Boosting**  
-    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+    [🎥 Regressor]((https://youtu.be/aEa6l-nL-GU)) | [💻 Code Example](Supervised_Learning/Gradient_Boosting/regresso.py)  
+    [🎥 Classifier]((https://youtu.be/Nl8uJVNlpjs)) | [💻 Code Example](Supervised_Learning/Gradient_Boosting/classifier.py)  
     
   ✅ **⚡XGBoost**  
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
