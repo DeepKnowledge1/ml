@@ -176,7 +176,7 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
     [🎥 Classifier]((https://youtu.be/Nl8uJVNlpjs)) | [💻 Code Example](Supervised_Learning/Gradient_Boosting/classifier.py)  
     
   ✅ **⚡XGBoost**  
-    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+    [🎥 XGBoost Classifier](https://youtu.be/jHqwch9AkcI) | [💻 Code Example](Supervised_Learning/XGBoost/xgboost_step_by_step.ipynb)  
 
 ---
 
