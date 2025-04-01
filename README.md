@@ -188,7 +188,9 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 📌 **Cross-Validation Techniques**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/rIN_sZIrK2w) | [💻 Code Example](Supervised_Learning/cross_validation.py)  
+📌 **Overfitting and Underfitting**  
+  [🎥 Watch Video](https://youtu.be/Dp0AKrppG0o) | [💻 Code Example](No Code)  
 
 ---
 
