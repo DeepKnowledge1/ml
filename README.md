@@ -199,9 +199,10 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 📌 **Neural Network Basics**  
 - Neural Network Architecture  
   ✅ Forward Propagation Examples  
-  ✅ TensorFlow Implementation  
+  ✅ PyTorch Implementation  
+[🎥 Watch Video](https://youtu.be/sMEOaIPS4Q4) | [💻 Code Example](Supervised_Learning/NN/main.py)    
 - Backpropagation    
-[🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+[🎥 Watch Video](Not Yet) | [💻 Doc Example](https://github.com/DeepKnowledge1/Deep-Learning/blob/main/Backpropagation%20with%20Example.pdf)  
 
 
 📌 **Performance Measurement**  
