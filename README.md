@@ -208,10 +208,10 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 
 
 📌 **Performance Measurement**  
-- Loss Functions
+- Loss Functions and Implementation with PyTorch  
+[🎥 Watch Video](https://youtu.be/Tuvi62Mb8Yo) | [💻 Code Example](Supervised_Learning/NN/loss_functions_pytorch.ipynb)  
 - Accuracy Metrics  
-- Implementation with PyTorch  
-[🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+[🎥 Watch Video](https://youtu.be/xAfL5DXNAGM) | [💻 Code Example](Supervised_Learning/classification_metrics.py)  
 
 
 ---
