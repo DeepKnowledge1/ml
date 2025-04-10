@@ -218,24 +218,18 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 
 ### **8️⃣ Convolutional Neural Networks (CNNs)**
 📌 **CNN Architecture**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/jH8Phm7vpqE) | [💻 Code Example](No)  
 
 - **Convolutional Layers**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-
+- **Feature Maps**  
 - **Filters/Kernels**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-
 - **Stride & Padding**   
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/gJAn9tYeOkI) | [💻 Code Example](Supervised_Learning/CNN/main.py)  
 
 - **Activation Functions**   
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 - **Pooling Layers**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-
-- **Fully Connected Layers**  
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 - **Dropout & Batch Normalization**  
@@ -244,8 +238,6 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 - **Backpropagation & Optimization**   
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
-- **Feature Maps**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 - **Transfer Learning**    
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
