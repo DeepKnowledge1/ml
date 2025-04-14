@@ -222,9 +222,11 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 
 - **Convolutional Layers**  
 - **Feature Maps**  
-- **Filters/Kernels**  
-- **Stride & Padding**   
   [🎥 Watch Video](https://youtu.be/gJAn9tYeOkI) | [💻 Code Example](Supervised_Learning/CNN/main.py)  
+- **Filters/Kernels**  
+ [🎥 Watch Video](https://youtu.be/N0b-FO8wlgM) | [💻 Code Example](Supervised_Learning/CNN/edges.py)  
+- **Stride & Padding**   
+- **Filters/Kernels**  
 
 - **Activation Functions**   
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
