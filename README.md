@@ -225,21 +225,24 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
   [🎥 Watch Video](https://youtu.be/gJAn9tYeOkI) | [💻 Code Example](Supervised_Learning/CNN/main.py)  
 - **Filters/Kernels**  
  [🎥 Watch Video](https://youtu.be/N0b-FO8wlgM) | [💻 Code Example](Supervised_Learning/CNN/edges.py)  
-- **Stride & Padding**   
 - **Filters/Kernels**  
+ [🎥 Watch Video]() | [💻 Code Example](Supervised_Learning/CNN/edges.py)  
 
 - **Activation Functions**   
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/lRiyyLadw6M) | [💻 Code Example](Supervised_Learning/CNN/activation_fun.py)  
 
 - **Pooling Layers**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/DV_yXLSJGog) | [💻 Code Example](In progress)  
+
+- **VGG16 Explained with Code**  
+  [🎥 Watch Video](https://youtu.be/0v1sd-BgehE) | [💻 Code Example](Supervised_Learning/CNN/VGG16.py)  
+
+- **VGG16 training Code**  
+  [🎥 Watch Video](https://youtu.be/YdZxtlBgTzQ) | [💻 Code Example](Supervised_Learning/CNN/VGG16.py)  
+
 
 - **Dropout & Batch Normalization**  
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-
-- **Backpropagation & Optimization**   
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-
 
 - **Transfer Learning**    
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
