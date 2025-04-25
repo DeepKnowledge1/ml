@@ -192,7 +192,7 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 📌 **Cross-Validation Techniques**  
   [🎥 Watch Video](https://youtu.be/rIN_sZIrK2w) | [💻 Code Example](Supervised_Learning/cross_validation.py)  
 📌 **Overfitting and Underfitting**  
-  [🎥 Watch Video](https://youtu.be/Dp0AKrppG0o) | [💻 Code Example](No Code)  
+  [🎥 Watch Video](https://youtu.be/Dp0AKrppG0o) | [💻 Code Example](# "No code")  
 
 ---
 
@@ -240,9 +240,14 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 - **VGG16 training Code**  
   [🎥 Watch Video](https://youtu.be/YdZxtlBgTzQ) | [💻 Code Example](Supervised_Learning/CNN/VGG16.py)  
 
+- **Dropout**  
+  [🎥 Watch Video](https://youtu.be/dje0nCVHN3k) | [💻 Code Example](# "No code")  
 
-- **Dropout & Batch Normalization**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+- **Batch Normalization**  
+  [🎥 Watch Video](https://youtu.be/xdunLi_miyw) | [Animation](https://youtu.be/U-1CBNxMIpU)| [💻 Code Example](# "No code")  
+
+- **Layer Normalization**  
+- [🎥 Watch Video](https://youtu.be/0iVTNOo_Wwg) | [Animation](https://youtu.be/uOAeMVx3VHo) | [💻 Code Example](# "No code")
 
 - **Transfer Learning**    
     [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
