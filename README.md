@@ -249,8 +249,28 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 - **Layer Normalization**  
 - [🎥 Watch Video](https://youtu.be/0iVTNOo_Wwg) | [Animation](https://youtu.be/uOAeMVx3VHo) | [💻 Code Example](# "No code")
 
+- **1x1 Convlution**    
+    [🎥 Watch Video](https://youtu.be/ufkz2XgVAIA) 
+    
 - **Transfer Learning**    
-    [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+    [🎥 Watch Video](https://youtu.be/mNO0s-RpxPY) | [💻 Code Example](Supervised_Learning/CNN/Transfer_learning/Transfer_Learning_Basics_PyTorch.ipynb)  
+
+- **Vgg16 Explained**    
+    [🎥 Watch Video](https://youtu.be/0v1sd-BgehE) | [💻 Code Example](Supervised_Learning/CNN/Transfer_learning/Transfer_Learning_Basics_PyTorch.ipynb)  
+
+- **Vgg16 : Train from scratch PyTorch**    
+    [🎥 Watch Video](https://youtu.be/YdZxtlBgTzQ) | [💻 Code Example](Supervised_Learning/CNN/Transfer_learning/Transfer_Learning_Basics_PyTorch.ipynb)  
+
+- **Resnet Explained**    
+    [🎥 Watch Video](https://youtu.be/VFJ6Kxa01to) | [💻 Code Example](Supervised_Learning/CNN/ResNet/resnet_arch.ipynb)  
+
+- **Resnet: Features Extractrion**    
+    [🎥 Watch Video](https://youtu.be/irAfQGi_zrQ) | [💻 Code Example](Supervised_Learning/CNN/feature_extraction.py/feature_extraction_using_resnet18.ipynb)  
+
+
+- **Resnet Implementation using PyTorch**    
+    [🎥 Watch Video](https://youtu.be/1CMNdmWhqFo) | [💻 Code Example](Supervised_Learning/CNN/ResNet/resnet_arch.ipynb)  
+
 
       
 📌 **Practical Implementations**  
