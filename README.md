@@ -234,12 +234,6 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 - **Pooling Layers**  
   [🎥 Watch Video](https://youtu.be/DV_yXLSJGog) | [💻 Code Example](In progress)  
 
-- **VGG16 Explained with Code**  
-  [🎥 Watch Video](https://youtu.be/0v1sd-BgehE) | [💻 Code Example](Supervised_Learning/CNN/VGG16.py)  
-
-- **VGG16 training Code**  
-  [🎥 Watch Video](https://youtu.be/YdZxtlBgTzQ) | [💻 Code Example](Supervised_Learning/CNN/VGG16.py)  
-
 - **Dropout**  
   [🎥 Watch Video](https://youtu.be/dje0nCVHN3k) | [💻 Code Example](# "No code")  
 
