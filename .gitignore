@@ -175,3 +175,4 @@ cython_debug/
 media/
 
 Supervised_Learning/CNN/Transfer_learning/data/
+Supervised_Learning/Real_project/xgboost_house_price_model.pkl
