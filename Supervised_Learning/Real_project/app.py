@@ -27,7 +27,7 @@ st.sidebar.markdown("Adjust the values below to predict house price.")
 # Load dataset (for feature info)
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"D:\01-DATA\MELBOURNE_HOUSE_PRICES_LESS.csv")
+    df = pd.read_csv("./Supervised_Learning/Real_project/MELBOURNE_HOUSE_PRICES_LESS.csv")
     return df
 
 df = load_data()
