@@ -1,0 +1,11 @@
+body {
+    background-color: #faf6f5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.sidebar .sidebar-content {
+    width: 100%;
+}

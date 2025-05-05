@@ -281,7 +281,8 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 ### **9️⃣ Real-World Projects**
 📌 **Hands-on Learning with Real Data**  
 - **Regression Project: House Price Prediction**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/leOPtQL7maY) | [💻 Code Example](Supervised_Learning/Real_project/House_price/House_Price_Prediction_XGBoost.ipynb) | [Streamlit](https://youtu.be/VrSv11p-l5k)| [💻 Code Example](Supervised_Learning/Real_project/House_price/app.py)  
+
 - **Classification Project: Email Spam Detection**  
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 - **Clustering Project: Customer Segmentation**  
