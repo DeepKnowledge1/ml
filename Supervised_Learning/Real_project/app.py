@@ -17,7 +17,7 @@ def local_css(file_name):
 local_css("./Supervised_Learning/Real_project/style.css")  # Optional: Add custom styles in style.css
 
 # Title & Header
-st.title("🏡 Melbourne House Price Prediction App")
+st.title("🏡 The Accuarate Melbourne House Price Prediction App")
 st.markdown("Built with XGBoost and Streamlit — Predict house prices interactively!")
 
 # Sidebar
@@ -75,15 +75,49 @@ with col2:
     st.info("This is an estimate based on the selected features and our trained XGBoost model.")
 
 # Additional Info
-st.markdown("---")
-st.subheader("📈 Feature Importance")
-fig, ax = plt.subplots(figsize=(8, 4))
-plot_importance(model, ax=ax, max_num_features=5, color="#4285F4")
-st.pyplot(fig)
+# st.markdown("---")
+
+# fig, ax = plt.subplots()  # Create a Matplotlib figure
+# sns.histplot(df['Price'], kde=True, ax=ax)  # Plot on the created axis
+# ax.set_title("Distribution of House Prices")
+# ax.set_xlabel("Price")
+# ax.set_ylabel("Frequency")
+
+# # Display in Streamlit
+# st.pyplot(fig)  # Render the plot
+
+
+# st.markdown("---")
+# st.subheader("📈 Feature Importance")
+# fig, ax = plt.subplots(figsize=(8, 4))
+# plot_importance(model, ax=ax, max_num_features=5, color="#4285F4")
+# st.pyplot(fig)
 
 st.markdown("---")
+
+# --- Layout: Two Columns ---
+col1, col2 = st.columns(2)  # Creates 2 side-by-side columns
+
+
+with col1:
+    st.markdown("### Distribution of House Prices")
+    fig1, ax1 = plt.subplots(figsize=(6, 4))
+    sns.histplot(df["Price"], kde=True, ax=ax1)
+    ax1.set_xlabel("Price")
+    ax1.set_ylabel("Frequency")
+    st.pyplot(fig1)
+
+# --- Plot 2: Feature Importance (Right Side) ---
+with col2:
+    st.markdown("### 📈 Feature Importance")
+    fig2, ax2 = plt.subplots(figsize=(6, 4))
+    plot_importance(model, ax=ax2, max_num_features=5, color="#4285F4")
+    st.pyplot(fig2)
+
+
+st.markdown("---")  # Horizontal line after plots
 st.subheader("🧾 Dataset Sample")
 st.write(df.head())
 
 st.markdown("---")
-st.markdown("© 2025 House Price Predictor | Built with ❤️ using Streamlit")
+st.markdown("© 2025 House Price Predictor | Built By Deep Knowledge")
