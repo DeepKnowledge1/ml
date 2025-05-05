@@ -183,11 +183,6 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
 ---
 
 ### **6️⃣ Model Optimization**
-📌 **Hyperparameter Tuning**  
-- **Grid Search**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Random Search**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 📌 **Cross-Validation Techniques**  
   [🎥 Watch Video](https://youtu.be/rIN_sZIrK2w) | [💻 Code Example](Supervised_Learning/cross_validation.py)  
@@ -266,16 +261,6 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
     [🎥 Watch Video](https://youtu.be/1CMNdmWhqFo) | [💻 Code Example](Supervised_Learning/CNN/ResNet/resnet_arch.ipynb)  
 
 
-      
-📌 **Practical Implementations**  
-- Image Classification  
-- **YOLO Object Detection**  
-  ✅ YOLO Architecture  
-  ✅ YOLOv5 Implementation  
-  ✅ Real-time Detection  
-
-
-
 ## **🟠 Part V: Practical Applications**
 
 ### **9️⃣ Real-World Projects**
@@ -284,22 +269,9 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
   [🎥 Watch Video](https://youtu.be/leOPtQL7maY) | [💻 Code Example](Supervised_Learning/Real_project/House_price/House_Price_Prediction_XGBoost.ipynb) | [Streamlit](https://youtu.be/VrSv11p-l5k)| [💻 Code Example](Supervised_Learning/Real_project/House_price/app.py)  
 
 - **Classification Project: Email Spam Detection**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/X1zDOrSpZMk) | [💻 Code Example](Supervised_Learning/Real_project/Spam_detection/Spam_Detection.ipynb) | [Streamlit](https://youtu.be/iLp90SufTzs)| [💻 Code Example](Supervised_Learning/Real_project/Spam_detection/app.py)  
+
 - **Clustering Project: Customer Segmentation**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Computer Vision Project: Object Detection**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-
----
-
-## **🔟 Course Conclusion**
-
-📌 **Final Takeaways**  
-- **Key Concepts Review**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Machine Learning Best Practices**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
-- **Advanced Learning Pathways**  
   [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
 
 ---

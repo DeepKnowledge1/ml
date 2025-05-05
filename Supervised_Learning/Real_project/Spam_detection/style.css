@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+.stTextInput>div>input {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+button {
+    background-color: #28a745 !important;
+    color: white !important;
+    border-radius: 5px !important;
+}
