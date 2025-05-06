@@ -8,7 +8,7 @@
 
 <center>
 <!-- <img src="doc/img.jpg" alt="Machine Learning"  /> -->
-<img src="doc/banner.png" alt="Machine Learning"  />
+<img src="doc/banner1.png" alt="Machine Learning"  />
 
 </center>
 
