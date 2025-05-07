@@ -28,6 +28,7 @@ shap = "^0.47.2"
 streamlit = "1.2.0"
 protobuf = "3.20.3"
 altair = "4.2.2"
+openpyxl = "^3.1.5"
 
 [[tool.poetry.source]]
 name = "torch"
