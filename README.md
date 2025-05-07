@@ -272,7 +272,7 @@ Welcome to the **Machine Learning Course**! This repository is designed to provi
   [🎥 Watch Video](https://youtu.be/X1zDOrSpZMk) | [💻 Code Example](Supervised_Learning/Real_project/Spam_detection/Spam_Detection.ipynb) | [Streamlit](https://youtu.be/iLp90SufTzs)| [💻 Code Example](Supervised_Learning/Real_project/Spam_detection/app.py)  
 
 - **Clustering Project: Customer Segmentation**  
-  [🎥 Watch Video](Not Yet) | [💻 Code Example](In progress)  
+  [🎥 Watch Video](https://youtu.be/WWFbAI0jOJM) | [💻 Code Example](Supervised_Learning/Real_project/customer_segmentation/customer_segmentation.ipynb)  
 
 ---
 
